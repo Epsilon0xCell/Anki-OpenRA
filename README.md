@@ -1,3 +1,13 @@
+![Anki-OpenRA banner](banner.png)
+
+<p align="center"><img src="logo.png" alt="Anki-OpenRA logo" width="160"></p>
+
+![Anki-OpenRA animated scene](assets-scene.svg)
+
+_Theme: editorial illustration. The battle map and the flashcard deck, wired together in olive and orange ink._
+
+<p align="center"><img src="sep-heavy.svg" alt=""></p>
+
 # Installation
 1. Download the source and build using the instructions below
 2. add anki_ra.py to your Anki2\addons folder
