@@ -1,12 +1,10 @@
+# Anki-OpenRA
+
+Play OpenRA with Anki connected: your in-game resources show up in Anki once it is properly connected, and you can work through flashcards while you play.
+
 ![Anki-OpenRA banner](banner.png)
 
-<p align="center"><img src="logo.png" alt="Anki-OpenRA logo" width="200"></p>
-
-![Anki-OpenRA animated scene](assets-scene.svg)
-
 _Theme: editorial illustration. The battle map and the flashcard deck, wired together in olive and orange ink._
-
-<p align="center"><img src="sep-heavy.svg" alt=""></p>
 
 ## At a glance
 
@@ -93,3 +91,9 @@ available to you under the terms of the GNU General Public License
 as published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version. For more
 information, see [COPYING](https://github.com/OpenRA/OpenRA/blob/bleed/COPYING).
+
+## Visual Identity
+
+<p align="center"><img src="logo.png" alt="Anki-OpenRA logo" width="200"></p>
+
+![Anki-OpenRA animated scene](assets-scene.svg)
