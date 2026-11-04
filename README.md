@@ -1,12 +1,17 @@
 ![Anki-OpenRA banner](banner.png)
 
-<p align="center"><img src="logo.png" alt="Anki-OpenRA logo" width="160"></p>
+<p align="center"><img src="logo.png" alt="Anki-OpenRA logo" width="200"></p>
 
 ![Anki-OpenRA animated scene](assets-scene.svg)
 
 _Theme: editorial illustration. The battle map and the flashcard deck, wired together in olive and orange ink._
 
 <p align="center"><img src="sep-heavy.svg" alt=""></p>
+
+## At a glance
+
+- Play OpenRA with Anki connected: your in-game resources show up in Anki once it is properly connected.
+- Work through flashcards while you play: add `anki_ra.py` to your Anki2 addons folder, then start Anki and OpenRA and start playing a game.
 
 # Installation
 1. Download the source and build using the instructions below
@@ -16,6 +21,9 @@ _Theme: editorial illustration. The battle map and the flashcard deck, wired tog
 5. rip through flashcards!
 
 # Build on macOS:
+
+The macOS build sequence documented in this repo is:
+
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install dotnet@6
